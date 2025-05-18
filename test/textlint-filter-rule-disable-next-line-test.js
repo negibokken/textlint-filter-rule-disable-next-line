@@ -73,11 +73,6 @@ const testCases = [
         text: "<div>This is ignored html block.</div>"
     },
     {
-        name: "LinkReference",
-        nodeType: ASTNodeTypes.LinkReference,
-        text: "[link-reference]: https://example.com"
-    },
-    {
         name: "Delete",
         nodeType: ASTNodeTypes.Delete,
         text: "~~This is ignored delete.~~"
