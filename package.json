@@ -16,7 +16,6 @@
   "version": "1.0.1",
   "description": "textlint rule that disable rules using disable-next-line directive.",
   "main": "lib/textlint-filter-rule-disable-next-line.js",
-  "type": "module",
   "directories": {
     "test": "test"
   },
