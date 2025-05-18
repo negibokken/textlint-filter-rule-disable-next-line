@@ -13,7 +13,7 @@
     "src/",
     "lib/"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "textlint rule that disable rules using disable-next-line directive.",
   "main": "lib/textlint-filter-rule-disable-next-line.js",
   "directories": {
